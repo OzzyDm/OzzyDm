@@ -20,11 +20,11 @@
 
 <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozzydm&show_icons=true&locale=en&layout=compact" alt="ozzydm" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ozzydm&show_icons=true&locale=en&layout=compact" alt="ozzydm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozzydm&show_icons=true&locale=en" alt="ozzydm" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozzydm&show_icons=true&locale=en" alt="ozzydm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozzydm&" alt="ozzydm" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ozzydm&" alt="ozzydm" /></p>
 
 <h3 align="center">Support:</h3>
 <p aling="center"><a href="https://www.buymeacoffee.com/oguzhandm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oguzhandm" /></a></p><br><br>
